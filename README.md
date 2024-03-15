@@ -4,3 +4,4 @@ For Ph.D reading
 ## Reading such literature can help us better understand the interface of marketing and operation management.
 - [strategic consumers](https://github.com/TodayZhangmengyao/literature-reading-list/blob/main/Consumer%20Fairness%20Concerns%20and%20Dynamic%20Pricing%20in%20a%20Channel.pdf)
 - [fair concern](https://doi.org/10.1287/mksc.2022.1395)
+- [Consumer Deliberations](https://doi.org/10.1287/mksc.2018.1120)
